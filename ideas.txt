@@ -1,0 +1,32 @@
+countries & capitals
+states & capitals
+world cup winners (football, rugby)
+tennis grand slam winners
+f1 world champions
+films & directors
+films & actors (harder to find data set for..?)
+films & years
+songs & albums & artists
+years & kings/queens
+years & prime ministers
+years & countries with world leader
+cities & countries
+landmarks/tourist sites & countries
+arithmetic
+famous events & years/places
+artist & piece
+novel & author
+poet & author
+car & year made
+invention & year
+discovery & scientist
+invention & inventor
+river & city/country
+desert & country
+jungle & country
+sea & ocean
+moon & planet
+god & god of what (roman, greek, hindu etc)
+country & national animal/symbol
+character name & show/film/novel
+
